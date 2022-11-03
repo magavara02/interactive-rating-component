@@ -1,9 +1,4 @@
 var rating = 0;
-const r1 = document.querySelector(".r1");
-const r2 = document.querySelector(".r2");
-const r3 = document.querySelector(".r3");
-const r4 = document.querySelector(".r4");
-const r5 = document.querySelector(".r5");
 
 function rate(userRating){
     document.querySelector(".rating_submit").style.cursor = "pointer";
